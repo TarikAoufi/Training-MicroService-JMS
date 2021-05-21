@@ -11,4 +11,4 @@ URL pour tester les WS DATA REST :
 		http://localhost:8080/api/students?projection=P2
 		
 	+ Lorsqu'on envoyer des messages à un client JMS
-		http://localhost:8080/sendMessage?message=hello
+		http://localhost:8080/sendMessage?message=hello 
