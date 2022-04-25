@@ -12,3 +12,4 @@ URL pour tester les WS DATA REST :
 		
 	+ Lorsqu'on envoyer des messages à un client JMS
 		http://localhost:8080/sendMessage?message=hello   
+  
