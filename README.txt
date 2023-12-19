@@ -1,4 +1,4 @@
-Demo d'un Micro-Service, qui montre comment : 
+Demo d'un Micro-Service, qui montre comment :
 						 + Créer un Listener JMS 
 						 + Recevoir des messages à partir d'un client JMS via un broker ActiveMQ
 
